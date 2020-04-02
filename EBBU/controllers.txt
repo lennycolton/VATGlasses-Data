@@ -1,0 +1,14 @@
+0|EBBU|CTR|131.100|EBBU|Brussels Control;Brussels West/Combined Control
+1|EBBU|CTR|129.570|EBBU|Brussels Control;Brussels East Control
+2|EBBU|CTR|127.220|EBBU|Maastricht Radar;Brussels Upper Control
+3|EDYY|CTR|135.970|EBBU|Maastricht Radar;Maastricht NIK
+4|EDYY|CTR|132.850|EBBU|Maastricht Radar;Maastricht LNO
+5|EDYY|CTR|132.200|EBBU|Maastricht Radar;Maastricht KOK
+6|EDYY|CTR|133.350|EBBU|Maastricht Radar;Maastricht LUX
+7|EBBR|APP|118.250|EBBU|Brussels Arrival;Brussels North/Combined Approach
+8|EBBR|APP|120.100|EBBU|Brussels Arrival;Brussels South Approach
+9|EBBR|DEP|126.620|EBBU|Brussels Departure;Brussels Departure
+10|EBCI|APP|133.120|EBBU|Charleroi Approach;Charleroi Approach
+11|EBLG|APP|119.280|EBBU|Li�ge Approach;Li�ge Approach
+12|EBOS|APP|120.600|EBBU|Ostend Approach;Ostend Approach
+13|ELLX|APP|118.900|EBBU|Luxembourg Approach;Luxembourg Approach
