@@ -1,0 +1,23 @@
+0|EDYY|CTR|132.070|EHAA|Maastricht Radar;EDYY_D_CTR
+2|EHAA|CTR|125.750|EHAA|Amsterdam Radar;Amsterdam ACC W
+3|EHAA|CTR|124.870|EHAA|Amsterdam Radar;Amsterdam ACC E
+4|EHAA|CTR|123.850|EHAA|Amsterdam Radar;Amsterdam ACC S
+5|EHAA|CTR|118.800|EHAA|Amsterdam Radar;Amsterdam ACC Stack Control
+6|EHMC|CTR|128.350|EHAA|Dutch Mil;Dutch Mil
+7|EHML|CTR|123.170|EHAA|Bandbox;Bandbox Primary
+8|EHML|CTR|124.920|EHAA|Bandbox;Bandbox Secondary
+9|EHAM|APP|121.200|EHAA|Schiphol Approach;Schiphol Approach W
+10|EHAM|APP|119.050|EHAA|Schiphol Approach;Schiphol Approach E
+11|EHAM|APP|118.400|EHAA|Schiphol Arrival;Schiphol Arrival M
+12|EHAM|APP|126.670|EHAA|Schiphol Arrival;Schiphol Arrival S
+13|EHAM|APP|131.150|EHAA|Schiphol Arrival;Schiphol Arrival B
+14|EHRD|APP|122.970|EHAA|Rotterdam Approach;Rotterdam Approach
+15|EHBK|APP|123.970|EHAA|Beek Approach;Beek Approach
+16|EHGG|APP|120.300|EHAA|Eelde Approach;Eelde Approach
+17|EHEH|APP|124.520|EHAA|Eindhoven Arrival;Eindhoven Arrival
+18|EHLE|APP|134.520|EHAA|Lelystad Approach;Lelystad Approach
+19|EHGR|APP|123.570|EHAA|RAPCON West;RAPCON West
+20|EHLW|APP|122.100|EHAA|RAPCON North;RAPCON North
+21|EHVK|APP|123.170|EHAA|RAPCON South;RAPCON South
+22|EHKD|APP|119.100|EHAA|De Kooy Approach;De Kooy Approach
+23|ETNG|APP|123.720|EHAA|Frisbee Radar;Frisbee Radar
