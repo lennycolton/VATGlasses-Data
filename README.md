@@ -11,7 +11,7 @@ Instructions for use:
 
 4. If errors occur, correct them then rerun.
 
-5. Readd large bandboxes (Eurocontrol, etc.) using references to their own VATGlasses data packages. _See the Wiki for more details on how to do this._
+5. Readd large bandboxes (Eurocontrol, etc.) to the _airspace.txt_ using references to their own VATGlasses data packages. _See the Wiki for more details on how to do this._
 
 In Euroscope:
 
