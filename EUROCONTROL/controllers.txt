@@ -1,0 +1,6 @@
+0|EURN|FSS|133.450||Eurocontrol North;EURN_FSS
+1|EURW|FSS|135.250||Eurocontrol West;EURW_FSS
+2|EURE|FSS|135.300||Eurocontrol East;EURE_FSS
+3|EURM|CTR|135.450||Maastricht Eurocontrol;EURM_CTR
+4|EURS|FSS|135.550||Eurocontrol South;EURS_FSS
+5|EURI|FSS|135.750||Eurocontrol Islands;EURI_FSS
