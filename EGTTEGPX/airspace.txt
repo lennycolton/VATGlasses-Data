@@ -1,0 +1,109 @@
+0|415,416,417,418,420|175,0,,|174,0,,|176,0,,|177,0,,|178,0,,|121,0,,|179,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|North Sea - Sector 10|London Area
+1|456|122,0,,|179,0,,|205,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|West - Sector 9|London Area
+7|321,322,354,355,437,438,439,440|125,0,,|205,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Worthing (Includes TC Capital)|London Area
+8|427,428,429,430,431,432,433,434,435,436|126,0,,|125,0,,|205,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Dover and La Manche High|London Area
+9|316,317,318,319,320|210,0,,|208,0,,|197,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC Midlands - COWLY|London Terminal
+12|338|130,0,,|131,0,,|134,0,,|140,0,,|199,0,,|198,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC North-West|London Terminal
+13|345,346,347,348,349,350|137,0,,|138,0,,|139,0,,|140,0,,|126,0,,|125,0,,|205,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC South-East and La Manche Low|London Terminal
+14|351,352,353|135,0,,|136,0,,|139,0,,|140,0,,|125,0,,|205,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC South-West|London Terminal
+15|357,358,359,360,361|209,0,,|208,0,,|199,0,,|198,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC Midlands - Welin|London Terminal
+16|362,363,364,372,374,375,376,377|142,0,,|141,0,,|121,0,,|179,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Manchester East - North, East, Stafa, and Trent|Scottish Terminal
+17|365,366,367,368,369,370,371,373|143,0,,|141,0,,|121,0,,|179,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Manchester West - Sector 29, Irish Sea, and Isle-of-Man|Scottish Terminal
+18|458|229,0,,|226,0,,|145,0,,|144,0,,|EUROCONTROL/5,0,24500,|Hebrides|Scottish Area
+20|239,246,465,466|226,0,,|145,0,,|144,0,,|EUROCONTROL/5,0,24500,|Moray|Scottish Area
+21|475,477|148,0,,|147,0,,|146,0,,|144,0,,|EUROCONTROL/5,0,24500,|Rathlin|Scottish Area
+22|459,467|227,0,,|145,0,,|144,0,,|EUROCONTROL/5,0,24500,|Humber and Tyne|Scottish Area
+24|379,380|151,0,,|231,0,,|148,0,,|147,0,,|146,0,,|144,0,,|EUROCONTROL/5,0,24500,|Antrim|Scottish Terminal
+25|382|152,0,,|150,0,,|149,0,,|146,0,,|227,0,,|144,0,,|EUROCONTROL/5,0,24500,|Galloway|Scottish Terminal
+26|383|153,0,,|150,0,,|149,0,,|146,0,,|227,0,,|144,0,,|EUROCONTROL/5,0,24500,|Talla|Scottish Terminal
+29|31,32|1,1,,|0,1,,|Belfast Aldergrove - Final|Approach Radar
+30|33|0,1,,|1,1,,|Belfast - Intermediate|Approach Radar
+34|37,38|3,1,,|2,1,,|0,1,,|Belfast City - Final|Approach Radar 
+37|42,43|4,1,,|Derry|Approach 
+41|49,52|5,1,,|Birmingham - Intermediate|Approach Radar  
+42|50,51|6,1,,|5,1,,|Birmingham - Final|Approach Radar
+43|53,54|7,1,,|Gloucester|Approach
+46|60,61,62,63|10,1,,|8,1,,|9,1,,|Manchester - Final|Approach Radar
+47|64,66|9,1,,|8,1,,|10,1,,|Manchester - North|Approach Radar
+48|65,67|8,1,,|9,1,,|Manchester - South|Approach Radar (VFR Aircraft Call Here)
+49|68,69|11,1,,|Doncaster|Approach Radar
+52|73,74,75|12,1,,|Cardiff|Approach Radar
+57|81,82,83|14,1,,|12,1,,|Bristol|Approach Radar
+60|89,90|16,1,,|Liverpool|Approach Radar
+64|96,97|99,1,,|18,1,,|Luton|London Terminal
+68|103,104|20,1,,|23,1,,|22,1,,|Bournemouth Final|Solent
+73|111,112|24,1,,|23,1,,|22,1,,|Southampton Final|Solent
+74|113|23,1,,|22,1,,|Intermediate|Solent
+75|114,115|26,1,,|25,1,,|Newquay|Approach Radar
+78|118,133|30,1,,|31,1,,|Zone Control|Jersey Terminal
+81|124,125|29,1,,|28,1,,|27,1,,|30,1,,|31,1,,|Guernsey|Approach Radar 
+84|131,132|33,1,,|32,1,,|30,1,,|31,1,,|Jersey|Jersey Terminal
+85|134|31,1,,|30,1,,|Zone Control - South|Jersey Terminal
+86|135,136|34,1,,|Shoreham|Approach
+90|140,141|35,1,,|42,1,,|43,1,,|Biggin|Approach 
+93|147,148,149|41,1,,|36,1,,|Gatwick - Final |London Terminal
+94|151,153|36,1,,|Gatwick - Intermediate|London Terminal
+95|152,154|38,1,,|37,1,,|39,1,,|40,1,,|36,1,,|Gatwick - Holding Stacks|London Terminal
+100|163,164|45,1,,|44,1,,|42,1,,|43,1,,|Thames - City Final|London Terminal
+101|165,166,203|52,1,,|51,1,,|42,1,,|43,1,,|Southend|Approach Radar
+102|167,168|51,1,,|Southend|LARS
+103|170,171,172,173,174,175,176,177|42,1,,|43,1,,|Thames - Intermediate|London Terminal
+104|178,179|47,1,,|Farnborough|Approach Radar and LARS
+;107|185,186,187,188|50,1,,|48,1,,|49,1,,|Ground Control|Heathrow
+108|189,190,193,314|48,1,,|50,1,,|49,1,,|Northolt|Approach Radar
+109|191,194,195|49,1,,|48,1,,|50,1,,|Heathrow - Final|London Terminal
+110|192,196,198|48,1,,|50,1,,|49,1,,|Heathrow - North|London Terminal
+111|197,199|50,1,,|48,1,,|49,1,,|Heathrow - South|London Terminal
+114|204,205|53,1,,|Lydd|Approach
+117|210,211|54,1,,|Carlisle|Approach 
+118|212,213|56,1,,|Humberside|Approach Radar 
+121|217,218|57,1,,|Leeds Bradford|Approach Radar 
+122|219,220|64,1,,|63,1,,|Ronaldsway|Approach Radar 
+125|226,227,228,229|66,1,,|Newcastle|Zone Control, Approach Radar, and LARS 
+126|230,231|68,1,,|66,1,,|Durham|Approach Radar and LARS
+129|237,238|70,1,,|East Midlands|Approach Radar
+133|243,244,245|75,1,,|Sumburgh|Approach Radar
+137|252, 253|78,1,,|79,1,,|Aberdeen - Intermediate|Approach Radar
+139|254|79,1,,|Aberdeen - Final|Approach Radar
+142|258,259|81,1,,|80,1,,|Inverness|Approach Radar
+145|265,267,268|83,1,,|82,1,,|Glasgow - Final|Approach Radar
+146|266|82,1,,|83,1,,|Glasgow - Intermediate|Approach Radar
+151|274,275,276|85,1,,|84,1,,|Edinburgh - Final|Approach Radar
+152|277|84,1,,|85,1,,|Edinburgh - Intermediate|Approach Radar
+155|283|87,1,,|86,1,,|Prestwick - Final|Approach Radar
+156|284|86,1,,|87,1,,|Prestwick - Intermediate|Approach Radar
+157|285,286|89,1,,|Scatsta|Approach Radar
+158|287,288|91,1,,|Dundee|Approach
+159|289,290|92,1,,|Stornoway|Approach
+163|294,295|96,1,,|95,1,,|99,1,,|100,1,,|Cambridge|Approach Radar 
+164|296,297|97,1,,|Norwich|Approach Radar
+169|304,305|101,1,,|99,1,,|100,1,,|Stansted - Final|London Terminal
+170|306|99,1,,|100,1,,|101,1,,|Essex (Stansted and Luton) - Initial|London Terminal
+171|307,308|102,1,,|Cranfield|Approach
+172|309,310|103,1,,|Exeter|Approach Radar 
+173|311,312|105,1,,|Oxford|Approach Radar
+174|324,325|216,0,,|215,0,,|129,0,,|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC East - DAGGA|London Terminal
+175|327,328,329,330|217,0,,|214,0,,|129,0,,|124,0,,|202,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC East - JACKO|London Terminal
+176|331|213,0,,|132,0,,|133,0,,|134,0,,|140,0,,|129,0,,|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC North-East - LAM|London Terminal
+177|332,333,334|212,0,,|132,0,,|133,0,,|134,0,,|140,0,,|129,0,,|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC North-East - LOREL|London Terminal
+178|335,336,337|132,0,,|133,0,,|134,0,,|140,0,,|129,0,,|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC North-East|London Terminal
+179|340,341|215,0,,|129,0,,|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC East - REDFA|London Terminal
+180|343,344|214,0,,|129,0,,|124,0,,|202,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|TC  East - SABER|London Terminal
+181|378|225,0,,|143,0,,|141,0,,|121,0,,|179,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Manchester West - WAL|Scottish Terminal
+182|381,468|228,0,,|147,0,,|146,0,,|144,0,,|EUROCONTROL/5,0,24500,|Central|Scottish Area
+183|384,385,386,460,461,462,463,464|230,0,,|227,0,,|145,0,,|144,0,,|EUROCONTROL/5,0,24500,|Montrose and Tay|Scottish Area and Terminal
+184|388,389|201,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Clacton - Sector 12|London Area
+185|391,392,393|202,0,,|124,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Clacton - Sector 13, IBNOS and SASKI Areas High|London Area
+186|395,396,397,398|124,0,,|202,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Clacton - Sector 14, IBNOS and SASKI Areas Low|London Area
+187|400,401,402,403,404,405|197,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Daventry - Sector 27|London Area
+188|407,408,409,410|199,0,,|198,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Daventry - Sector 28|London Area
+189|412,413|198,0,,|123,0,,|120,0,,|119,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Daventry - Sector 34|London Area
+190|422,424,426|172,0,,|171,0,,|170,0,,|173,0,,|121,0,,|179,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|Lakes - Sectors 3, 4, and 7|London Area
+191|442,443,444|193,0,,|192,0,,|191,0,,|190,0,,|188,0,,|187,0,,|186,0,,|185,0,,|189,0,,|183,0,,|182,0,,|181,0,,|180,0,,|184,0,,|193,0,,|192,0,,|191,0,,|190,0,,|122,0,,|179,0,,|205,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|West - Sector 23|London Area
+192|446,457|183,0,,|182,0,,|181,0,,|180,0,,|184,0,,|122,0,,|179,0,,|205,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|West - Sector 35, BADSI-LIPGO|London Area
+193|448,449,454|188,0,,|187,0,,|186,0,,|185,0,,|189,0,,|183,0,,|182,0,,|181,0,,|180,0,,|184,0,,|122,0,,|179,0,,|205,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|West - Sectors 5 and 8|London Area
+194|452|194,0,,|195,0,,|196,0,,|122,0,,|179,0,,|205,0,,|204,0,,|203,0,,|118,0,,|207,0,,|EUROCONTROL/5,0,24500,|West - Sector 6|London Area
+195|470,471,472,473|149,0,,|146,0,,|227,0,,|144,0,,|EUROCONTROL/5,0,24500,|Deancross|Scottish Area
+196|476|231,0,,|148,0,,|147,0,,|146,0,,|144,0,,|EUROCONTROL/5,0,24500,|Rathlin East|Scottish Area
+197|5000|127,0,,|128,0,,|233,0,,|234,0,,|235,0,,|236,0,,|237,0,,|238,0,,|239,0,,|240,0,,|241,0,,|242,0,,|243,0,,|244,0,,|London Information|Non-Radar Flight Information Services (Alerting and Basic) Outside of Controlled Airspace
+197|5001|154,0,,|155,0,,|Scottish Information|Non-Radar Flight Information Services (Alerting and Basic) Outside of Controlled Airspace
