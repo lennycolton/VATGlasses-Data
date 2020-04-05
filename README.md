@@ -22,3 +22,5 @@ In VRC:
 
 * The [RUNWAYS] section is located in the .sct2 file.
 * The [POSITIONS] section is located in the .pof file.
+
+_VRC Parser is not yet completed_
