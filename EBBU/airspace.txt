@@ -1,19 +1,18 @@
-0|0,7,8|10,1,,|0,0,,|1,0,,|CA|EBCI_GND_SCT, EBCI_TWR1_SCT, EBCI_TWR2_SCT, 
-1|1,9,10,11|9,1,,|7,1,,|0,0,,|1,0,,|BD|EBAW_GND_SCT, EBAW_TWR1_SCT, EBBR_TWR_NL_SCT, EBBR_TWR_NH_SCT, 
-2|2|9,1,,|7,1,,|8,1,,|0,0,,|1,0,,|BD|EBBR_N_GND_SCT, 
-3|3,12,39|9,1,,|8,1,,|7,1,,|0,0,,|1,0,,|BD|EBBR_S_GND_SCT, EBBR_TWR_S_SCT, EBBR_DEP_SCT, 
-4|4,14,21|12,1,,|0,0,,|1,0,,|OA|EBOS_GND_SCT, EBOS_TWR_SCT, EBOS_APP1_SCT, 
-5|5,6,15,16|11,1,,|1,0,,|0,0,,|LA|EBLG_GND_SCT, EBLG_TWR_SCT, EBLG_TMA_1_SCT, EBLG_TMA_2_SCT, 
-6|13,40,41,42,43,44,45,46|13,1,,|1,0,,|0,0,,|XA|ELLX_TWR_SCT, ELLX_TMA_1B_SCT, ELLX_TMA_1A_SCT, ELLX_TMA_2C_SCT, ELLX_TMA_2E_SCT, ELLX_TMA_3_SCT, ELLX_TMA_4_SCT, ELLX_TMA_CTA_S_SCT, 
-7|17,18,19,20|10,1,,|9,1,,|7,1,,|0,0,,|1,0,,|CA|EBCI_APP1A_SCT, EBCI_APP1B_SCT, EBCI_APP2_SCT, EBCI_APP3_SCT, 
-8|22|9,1,,|1,0,,|BD|EBBR_VIRT_SW_SCT, 
-9|23,25,27,28,29,33|7,1,,|9,1,,|0,0,,|1,0,,|BA|EBBR_TMA1_N_SCT, EBBR_TMA2_N_SCT, EBBR_TMA3A_SCT, EBBR_TMA3B_SCT, EBBR_TMA4_SCT, EBBR_TMA9A_SCT, 
-10|24,26,30,37,38|8,1,,|7,1,,|9,1,,|0,0,,|1,0,,|BF|EBBR_TMA1_S_SCT, EBBR_TMA2_S_SCT, EBBR_TMA5_SCT, EBBR_APP_CTA_S1_W_SCT, EBBR_APP_CTA_S1_E_SCT, 
-11|31,34|7,1,,|9,1,,|BA|EBBR_TMA7_SCT, EBBR_TMA9B_SCT, 
-12|32,35,36|8,1,,|7,1,,|9,1,,|1,0,,|0,0,,|BF|EBBR_TMA8_SCT, EBBR_APP_CTA_E1_SCT, EBBR_APP_CTA_E2_SCT, 
-14|50,65,66|1,0,,|0,0,,|BE|VATSIM_MAS_SCT, EBBU_E_Bal_CTR_SCT, EBBU_E_CTR_SCT, 
-15|63,64|0,0,,|1,0,,|BW|EBBU_W_CTR_SCT, EBBU_W_Bal_CTR_SCT, 
-16|67,68,69|5,0,,|3,0,,|2,0,,|0,0,,|1,0,,|YK|EDYYKOH_SCT, CBWV1a_SCT, CBWV1b_SCT, 
-17|70|3,0,,|2,0,,|0,0,,|1,0,,|YN|EDYYNIH_SCT, 
-18|71|4,0,,|2,0,,|1,0,,|0,0,,|YO|EDYYLNH_SCT, 
-19|72|6,0,,|2,0,,|1,0,,|0,0,,|YL|EDYYLXH_SCT, 
+0|0,7,8|10,1,,|0,0,,|1,0,,|Charleroi ATZ|Tower and Ground
+1|1,9,10,11|9,1,,|7,1,,|0,0,,|1,0,,|Antwerp ATZ|Tower and Ground
+3|2,3,12,39|9,1,,|8,1,,|7,1,,|0,0,,|1,0,,|Departure - TMA South-East|Brussels Terminal
+4|4,14,21|12,1,,|0,0,,|1,0,,|Oostende|Approach Radar, Tower, and Ground
+5|5,6,15,16|11,1,,|1,0,,|0,0,,|Liege|Approach Radar, Tower, and Ground
+6|13,40,41,42,43,44,45,46|13,1,,|1,0,,|0,0,,|Luxembourg|Approach Radar, Tower, and Ground
+7|17,18,19,20|10,1,,|9,1,,|7,1,,|0,0,,|1,0,,|Charleroi TMA|Approach Radar
+8|22|9,1,,|1,0,,|Departure - TMA South-West|Brussels Terminal
+9|23,25,27,28,29,33|7,1,,|9,1,,|0,0,,|1,0,,|Arrival - TMA 1N, 2N, 3A, 3B, 4, and 9A|Brussels Terminal
+10|24,26,30,37,38|8,1,,|7,1,,|9,1,,|0,0,,|1,0,,|Final - TMA 1S, 2S, and 5, CTA S1|Brussels Terminal
+11|31,34|7,1,,|9,1,,|Arrival - TMA 7 and 9B|Brussels Terminal
+12|32,35,36|8,1,,|7,1,,|9,1,,|1,0,,|0,0,,|Final - TMA 8, CTA E1 and E2|Brussels Terminal
+14|50,65,66|1,0,,|0,0,,|East|Brussels Area
+15|63,64|0,0,,|1,0,,|West|Brussels Area
+16|67,68,69|5,0,,|3,0,,|2,0,,|0,0,,|1,0,,|Koksy|Maastricht Upper Area
+17|70|3,0,,|2,0,,|0,0,,|1,0,,|Nicky|Maastricht Upper Area
+18|71|4,0,,|2,0,,|1,0,,|0,0,,|Olno|Maastricht Upper Area
+19|72|6,0,,|2,0,,|1,0,,|0,0,,|Lux|Maastricht Upper Area
