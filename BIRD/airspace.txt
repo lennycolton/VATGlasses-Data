@@ -1,12 +1,12 @@
 0|5,6|15,1,,|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Reykjavik|Approach Radar 
 1|11,12,13|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Keflavik - Intermediate|Approach Radar
 2|14,15,16,17|14,1,,|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Keflavik - Final|Approach Radar
-4|19,20,21,23,24,29,35|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|South - Sector 1|Reykjavik Area 1
-5|25,30,39,40|7,0,,|8,0,,|6,0,,|5,0,,|3,0,,|4,0,,|East - Sector 1|Reykjavik Area 4
-6|32,42|8,0,,|7,0,,|6,0,,|5,0,,|3,0,,|4,0,,|East - Sector 2|Reykjavik Area 5
-7|36|5,0,,|3,0,,|4,0,,|6,0,,|8,0,,|7,0,,|South - Sector 2|Reykjavik Area 2;FL335 - FL345
-8|37|5,0,,|6,0,,|3,0,,|4,0,,|8,0,,|7,0,,|South - Sector 2|Reykjavik Area 2;FL345 - FL355
-9|38|6,0,,|5,0,,|3,0,,|4,0,,|8,0,,|7,0,,|South - Sector 3|Reykjavik Area 3
+4|19,20,21,23,24,29,35|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|EUROCONTROL/5,0,24500,|South - Sector 1|Reykjavik Area 1
+5|25,30,39,40|7,0,,|8,0,,|6,0,,|5,0,,|3,0,,|4,0,,|EUROCONTROL/5,0,24500,|East - Sector 1|Reykjavik Area 4
+6|32,42|8,0,,|7,0,,|6,0,,|5,0,,|3,0,,|4,0,,|EUROCONTROL/5,0,24500,|East - Sector 2|Reykjavik Area 5
+7|36|5,0,,|3,0,,|4,0,,|6,0,,|8,0,,|7,0,,|EUROCONTROL/5,0,24500,|South - Sector 2|Reykjavik Area 2;FL335 - FL345
+8|37|5,0,,|6,0,,|3,0,,|4,0,,|8,0,,|7,0,,|EUROCONTROL/5,0,24500,|South - Sector 2|Reykjavik Area 2;FL345 - FL355
+9|38|6,0,,|5,0,,|3,0,,|4,0,,|8,0,,|7,0,,|EUROCONTROL/5,0,24500,|South - Sector 3|Reykjavik Area 3
 10|43,44|9,0,,|10,0,,|11,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 1|Reykjavik Area 6
 11|45|10,0,,|9,0,,|11,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 2|Reykjavik Area 7;FL335 - FL345
 12|46|10,0,,|11,0,,|9,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 2|Reykjavik Area 7;FL345 - FL355
