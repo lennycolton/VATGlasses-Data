@@ -1,8 +1,8 @@
 0|5,6|15,1,,|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Reykjavik|Approach Radar 
 1|11,12,13|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Keflavik - Intermediate|Approach Radar
 2|14,15,16,17|14,1,,|13,1,,|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|Keflavik - Final|Approach Radar
-4|19,20,21,23,24,29,33,34,35|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|South - Sector 1|Reykjavik Area 1
-5|25,30,31,39,40,41|7,0,,|8,0,,|6,0,,|5,0,,|3,0,,|4,0,,|East - Sector 1|Reykjavik Area 4
+4|19,20,21,23,24,29,35|3,0,,|4,0,,|5,0,,|6,0,,|8,0,,|7,0,,|South - Sector 1|Reykjavik Area 1
+5|25,30,39,40|7,0,,|8,0,,|6,0,,|5,0,,|3,0,,|4,0,,|East - Sector 1|Reykjavik Area 4
 6|32,42|8,0,,|7,0,,|6,0,,|5,0,,|3,0,,|4,0,,|East - Sector 2|Reykjavik Area 5
 7|36|5,0,,|3,0,,|4,0,,|6,0,,|8,0,,|7,0,,|South - Sector 2|Reykjavik Area 2;FL335 - FL345
 8|37|5,0,,|6,0,,|3,0,,|4,0,,|8,0,,|7,0,,|South - Sector 2|Reykjavik Area 2;FL345 - FL355
@@ -11,7 +11,7 @@
 11|45|10,0,,|9,0,,|11,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 2|Reykjavik Area 7;FL335 - FL345
 12|46|10,0,,|11,0,,|9,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 2|Reykjavik Area 7;FL345 - FL355
 13|47|11,0,,|10,0,,|9,0,,|6,0,,|5,0,,|3,0,,|4,0,,|0,0,,|West - Sector 3|Reykjavik Area 8
-14|48,49,50|0,0,,|North|Reykjavik Area - Position Reports
+14|48,49,50|0,0,,|3,1,,|North|Reykjavik Area - Position Reports
 15|51,52|16,0,,|Nuuk|Greenland - Position Reports
 16|53,54,55,56|17,1,,|16,0,,|Sondrestrom|Approach Radar
 17|58,59|18,1,,|Thule|Approach Radar
