@@ -28,7 +28,7 @@
 48|65,67|8,1,,|9,1,,|Manchester - South|Approach Radar (VFR Aircraft Call Here)
 49|68,69|11,1,,|Doncaster|Approach Radar
 52|73,74,75|12,1,,|Cardiff|Approach Radar
-57|81,82,83|14,1,,|12,1,,|Bristol|Approach Radar
+57|81,82,83|14,1,,|Bristol|Approach Radar
 60|89,90|16,1,,|Liverpool|Approach Radar
 64|96,97|99,1,,|18,1,,|Luton|London Terminal
 68|103,104|20,1,,|23,1,,|22,1,,|Bournemouth|Approach Radar
