@@ -177,7 +177,7 @@
 176|LON-NU|CTR|128.120|EGTT|London Control;London Control S10
 177|LON-10|CTR|128.120|EGTT|London Control;London Control S10
 178|LON-11|CTR|128.120|EGTT|London Control;London Control S10
-179|LON|CTR|126.770|EGTT|London Control;London Control
+179|LON|CTR|126.770|EGTT|London Control;London Control S11
 180|LON|CTR|133.600|EGTT|London Control;London Control S5
 181|LON-WU|CTR|133.600|EGTT|London Control;London Control S5
 182|LON-WN|CTR|133.600|EGTT|London Control;London Control S5
