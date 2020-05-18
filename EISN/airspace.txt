@@ -1,25 +1,32 @@
-0|1,2|21,1,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|DWAPP|DW_N_GND, DW_GND, 
-2|6,7,14,41,42,43,44,45|24,1,,|12,0,,|1,0,,|0,0,,|2,0,,|CKAPP|CK_GND, CK_GND, CK_TWR, CK_APP, CK_APP, CK_APP, CK_APP, CK_APP, 
-3|8,34,36,37,38,39,40|23,1,,|12,0,,|1,0,,|0,0,,|2,0,,|NNAPP|NN_GND, NN_APP, NN_APP, NN_APP, NN_APP, NN_APP, NN_APP, 
-4|9,11,49,50|21,1,,|19,0,,|18,0,,|17,0,,|16,0,,|15,0,,|14,0,,|1,0,,|0,0,,|2,0,,|DWAPP|DW_TWR, DW_TWR, DW_APP_10N, DW_APP_10S, 
-5|12,13|23,1,,|12,0,,|NNAPP|NN_TWR, NN_TWR, 
-6|15|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|21,1,,|EUROCONTROL/5,0,24500,|DWLS|WT_TWR, 
-7|16,33|25,1,,|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|21,1,,|RAD|ME_TWR, ME_APP, 
-8|17,18,19,30,31,32,70|12,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SLS|WF_TWR, WF_TWR, WF_TWR, KY_TWR, KY_TWR, KY_TWR, SLS, 
-9|20,21,22,23,24,25,26,27,28,29,69|11,0,,|12,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SLN|KN_TWR, KN_TWR, KN_TWR, KN_TWR, SG_TWR, SG_TWR, SG_TWR, DL_TWR, DL_TWR, DL_TWR, SLN, 
-10|46,47|21,1,,|15,0,,|19,0,,|18,0,,|14,0,,|17,0,,|16,0,,|1,0,,|0,0,,|2,0,,|DWAPP|DW_APP_281, DW_APP_281, 
-11|48,51|22,1,,|FIN|DW_F_APP28, DW_F_APP10, 
-12|52|21,1,,|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|DWAPP|DW_APP_16, 
-13|53,58,61|14,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWUN|DWUN, UN1, DWUN16, 
-14|54,62|15,0,,|14,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWLN|DWLN, DWLN16, 
-15|55,57,63|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWUS|DWUS, US1, DWUS16, 
-16|56,59,64|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWLS|DWLS, LS1, DWLS16, 
-17|60|15,0,,|17,0,,|16,0,,|14,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWLN|LN1, 
-18|65,68|17,0,,|16,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWUS|US16, UN16, 
-19|66,67|19,0,,|18,0,,|17,0,,|16,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|DWLS|LN16, LS16, 
-20|71|8,0,,|7,0,,|3,0,,|4,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SNN|SNN, 
-21|72|9,0,,|10,0,,|5,0,,|6,0,,|3,0,,|4,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SNO|SNO, 
-22|73|5,0,,|6,0,,|3,0,,|4,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SNS|SNS, 
-23|74|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SNE|SNE, 
-24|75|3,0,,|4,0,,|1,0,,|0,0,,|2,0,,|EUROCONTROL/5,0,24500,|SNW|SNW, 
-25|76|13,0,,|EUROCONTROL/5,0,24500,|SNI|SNI, 
+1|14|24,1,,|12,0,,|0,0,,|Cork CTR|Approach Radar
+2|41,42,43,44,45|24,1,,|12,0,,|0,0,,|Cork|Approach Radar
+3|34,36,37,38,39,40|23,1,,|12,0,,|0,0,,|Shannon|Approach Radar
+4|49,50|21,1,,|19,0,,|18,0,,|17,0,,|16,0,,|15,0,,|14,0,,|0,0,,|Dublin TMA West|Approach Radar
+5|12,13|23,1,,|12,0,,|0,0,,|Shannon CTR|Approach Radar
+6|15|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|21,1,,|EUROCONTROL/5,0,24500,|Weston ATZ|Procedural Tower 
+7|16,33|25,1,,|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|21,1,,|Baldonnel|Military Approach Radar
+8|70|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower South|Shannon Area 
+9|69|11,0,,|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower North|Shannon Area
+10|46,47|21,1,,|15,0,,|19,0,,|18,0,,|14,0,,|17,0,,|16,0,,|0,0,,|Dublin TMA East|Approach Radar
+11|48,51|22,1,,|Dublin - Final|Dublin Terminal
+12|52|21,1,,|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|Dublin TMA North|Approach Radar
+13|53,58,61|14,0,,|0,0,,|EUROCONTROL/5,0,24500,|Upper North|DWUN, UN1, DWUN16, 
+14|54,62|15,0,,|14,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower North|DWLN, DWLN16, 
+15|55,57,63|17,0,,|16,0,,|14,0,,|0,0,,|EUROCONTROL/5,0,24500,|Upper South|DWUS, US1, DWUS16, 
+16|56,59,64|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower South|DWLS, LS1, DWLS16, 
+17|60|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower North|LN1, 
+18|65,68|17,0,,|16,0,,|0,0,,|EUROCONTROL/5,0,24500,|Upper South|US16, UN16, 
+19|66,67|19,0,,|18,0,,|17,0,,|16,0,,|0,0,,|EUROCONTROL/5,0,24500,|Lower South|LN16, LS16, 
+20|71|7,0,,|3,0,,|0,0,,|EUROCONTROL/5,0,24500,|NOTA|Shannon Area 
+21|72|9,0,,|5,0,,|3,0,,|0,0,,|EUROCONTROL/5,0,24500,|SOTA East|Shannon Area
+22|73|5,0,,|3,0,,|0,0,,|EUROCONTROL/5,0,24500,|SOTA West|Shannon Area
+23|74|0,0,,|EUROCONTROL/5,0,24500,|East|Shannon Area 
+24|75|3,0,,|0,0,,|EUROCONTROL/5,0,24500,|West|Shannon Area
+25|76|13,0,,|EUROCONTROL/5,0,24500,|Shannon Information|Flight Information Services Outside of Controlled Airspace
+26|9,10,11|21,1,,|19,0,,|18,0,,|17,0,,|16,0,,|15,0,,|14,0,,|0,0,,|Dublin CTR|Approach Radar
+27|17,18,19|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Waterford|Procedural Tower
+28|30,31,32|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Kerry|Procedural Tower
+29|16|25,1,,|19,0,,|18,0,,|15,0,,|17,0,,|16,0,,|14,0,,|0,0,,|21,1,,|Baldonnel CTR|Military Approach Radar
+30|20,21,22,23|11,0,,|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Knock|Procedural Tower
+31|24,25,26|11,0,,|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Sligo|Procedural Tower
+32|27,28,29|11,0,,|12,0,,|0,0,,|EUROCONTROL/5,0,24500,|Donegal|Procedural Tower
